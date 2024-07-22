@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
 
-![Banner](banner.jpg)
+![Banner](banner.png)
 
 I am **Nolan Beaujault**, an engineering student at Télécom Physique Strasbourg in France. I have a huge interest in computer science, especially in its applications in healthcare.
 
