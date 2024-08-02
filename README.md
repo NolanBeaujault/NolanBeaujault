@@ -1,15 +1,15 @@
-# Welcome to my GitHub! 👋
+# Welcome ! 👋
 
 ![Banner](banner.png)
 
-I am **Nolan Beaujault**, an engineering student at Télécom Physique Strasbourg in France. I have a huge interest in computer science, especially in its applications in healthcare.
+I am **Nolan Beaujault**, an engineering student at Télécom Physique Strasbourg, France, interested in computer science and healthcare applications.
+<img src="TPS.png" alt="Télécom Physique Strasbourg Logo" width="150">
 
 ## About Me
 
-<img src="TPS.png" alt="Télécom Physique Strasbourg Logo" width="150">
-
-I am always eager to learn and improve my skills in various areas of computer science. My goal is to contribute to impactful projects, particularly in the medical field.
-
+- Eager to learn and improve
+- Aim to contribute to impactful medical projects
+  
 ## Visitor Statistics
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=NolanBeaujault&color=blue)
