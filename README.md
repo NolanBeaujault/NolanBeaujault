@@ -2,16 +2,11 @@
 
 ![Banner](banner.png)
 
-I am **Nolan Beaujault**, an engineering student at Télécom Physique Strasbourg, France, interested in computer science and healthcare applications.
+I am **Nolan Beaujault**, an Engineering student at Télécom Physique Strasbourg, France, interested in computer science and cloud applications.
 
 <a href="https://www.telecom-physique.fr/" target="_blank">
     <img src="TPS.png" alt="Télécom Physique Strasbourg Logo" width="150">
 </a>
-
-## About Me
-
-- Eager to learn and improve
-- Aim to contribute to impactful medical projects
   
 ## Visitor Statistics
 
