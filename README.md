@@ -48,7 +48,6 @@ Future Software Engineer Intern at Dalim Software GmbH | Former CAD Engineer Int
 
 <div>
   <a href="https://github.com/NolanBeaujault">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=NolanBeaujault&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanBeaujault&layout=compact&langs_count=10&theme=github_dark" />
   </a>
 </div>
