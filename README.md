@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Nolan BEAUAJULT</h1>
 
 <h3 align="center">
-Engineering student at Télécom Physique Strasbourg | Specialized in IT for healthcare systems<br>
+Engineering student at Télécom Physique Strasbourg | Specialized in IT for healthcare systems<br><br>
 Future Software Engineer Intern at Dalim Software GmbH | Former CAD Engineer Intern at STMicroelectronics
 </h3>
 
