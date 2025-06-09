@@ -1,64 +1,59 @@
-<h1 align="center">Hi everyone 👋, I'm Nolan BEAUAJULT</h1>
+<h1 align="center">Hello there! I'm Nolan Beaujault. 👋</h1>
 
-<h3 align="center">
-Engineering student at Télécom Physique Strasbourg | Specialized in IT for healthcare systems<br><br>
-Future Software Engineer Intern at Dalim Software GmbH | Former CAD Engineer Intern at STMicroelectronics
-</h3>
-
-<br>
-
-- 🧑‍💻 I'm currently studying **IT and health technologies** at **Télécom Physique Strasbourg**, with a strong focus on **cloud infrastructure** and **backend development**.
-- 💻 I’m particularly interested in **systems administration**, **DevOps**, and **infrastructure engineering**.
-- 🛠️ In 2024, I was a **CAD Engineer Intern** at **STMicroelectronics**, working on software and hardware integration.
-- 🚀 In summer 2025, I will join **Dalim Software GmbH** as a **Software Engineer Intern**, working on production systems testing using **Robot Framework**.
-- ⚙️ I also enjoy managing servers and deploying services with **Virtualmin**, **Proxmox**, and **Nginx**.
-
-<br>
-
-<h3 align="left">🧠 Languages & Technologies</h3>
-
-#### Programming & Scripting
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+<p align="center">
+I'm an engineering student at Télécom Physique Strasbourg, specialized in IT for healthcare systems. I'm really interested in systems administration, DevOps, and infrastructure engineering. When I'm not coding, you can find me playing football or even reading.
 </p>
 
-#### System Administration & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/512px-Nginx_logo.svg.png" height="30" />
-  <img src="https://qlr.ro/wp-content/uploads/2016/07/logo-virtualmin-300x300.png" width="40" />
-  <img src="https://www.proxmox.com/images/proxmox/Proxmox-logo-860.png" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/PfSense_logo.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-500.svg" height="40" />
+<p align="center">
+  You can reach me through my LinkedIn or my email adress.
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/nolan-beaujault/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:beaujaultnolan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-## 📈 GitHub Stats
+<h3 align="center">🛠️ Languages & Technologies</h3>
 
-<div>
-  <a href="https://github.com/NolanBeaujault">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanBeaujault&layout=compact&langs_count=10&theme=github_dark" />
-  </a>
-</div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualmin-000000?style=for-the-badge&logo=virtualmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
-## 📫 Contact
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nolan-beaujault/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beaujaultnolan@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
----
 
-![Visitor Count](https://komarev.com/ghpvc/?username=NolanBeaujault&color=blue)
+
+<h3 align="center">📈 GitHub Stats</h3>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanBeaujault&layout=compact&langs_count=10&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NolanBeaujault&color=blue" alt="Visitor Count" />
+</p>
