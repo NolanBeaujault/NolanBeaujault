@@ -53,7 +53,3 @@ I'm an engineering student at Télécom Physique Strasbourg, specialized in IT f
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanBeaujault&layout=compact&langs_count=10&theme=github_dark" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NolanBeaujault&color=blue" alt="Visitor Count" />
-</p>
