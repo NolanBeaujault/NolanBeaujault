@@ -73,5 +73,9 @@ I am an engineering student at Télécom Physique Strasbourg, specializing in IT
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanBeaujault&layout=compact&langs_count=10&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanBeaujault&layout=compact&langs_count=10&theme=github_dark" alt="Top Langs" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NolanBeaujault&theme=github-dark" alt="Contribution Graph" height="200"/>
 </p>
+
+
