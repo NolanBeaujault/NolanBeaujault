@@ -88,16 +88,3 @@
     <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
   </p>
 </details>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NolanBeaujault&show_icons=true&theme=github_dark" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanBeaujault&layout=compact&langs_count=10&theme=github_dark" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NolanBeaujault&style=flat-square&color=blue" alt="visitors"/>
-</p>
