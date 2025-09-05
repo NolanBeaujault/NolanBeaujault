@@ -1,6 +1,6 @@
 <h1 align="center">Nolan Beaujault</h1>
 <p align="center">
-  Engineering student at <strong>Télécom Physique Strasbourg</strong><br>
+  Engineering student at <strong>Polytechnique Montréal</strong><br>
   Passionate about system administration, DevOps, and automation<br>
   Football enthusiast & avid reader
 </p>
